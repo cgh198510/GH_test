@@ -47,6 +47,8 @@ github  常用指令     svn：必须在一个公共的服务器
 20）git checkout master	     在其他分支上回到主分支。
 
 21）git branch -D od1        删除od1分支。
+
+22） git push origin        推送
   		
 
  
