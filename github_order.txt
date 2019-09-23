@@ -38,6 +38,9 @@ github  常用指令     svn：必须在一个公共的服务器
 
 16） git rm -- cache github_order.txt 删除缓存区。没有commit之前
 
+17) git push -u origin master  向github提交自己的代码。
+
+18) 
 
   
 
