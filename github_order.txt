@@ -1,0 +1,55 @@
+github  常用指令     svn：必须在一个公共的服务器 
+
+介绍：版本管理工具 github是分布式的，只要有网络就可以。 liunx大神做的，是非常的好用的资源。
+
+注册github
+
+
+1)  git --version   github 版本号打印。
+
+2） git config --global user.name "cgh198510"    // 配置账号名字和密码
+ 
+3）git config --global user.email "cgh198510@163.com"
+
+4） git config -l  查看配置是否成功。
+
+5）cd  进入文件夹  
+
+6）cd ~ 回到根目录 文件夹 
+
+7）git init 创建git本地仓库，该文件是隐藏文件
+
+8）ls -ah  显示当前文件夹的内容
+
+9) git add github_order.txt 添加github_order.txt文件
+
+10）git commit -m 'this is a test order ' 添加注释 this is a test order 不要忘记添加
+
+11）git log  打印提交文件的版本信息。可以查看。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+12)git reset --hard 50c74ef	回退命令,50c74ef是版本号
+
+13）git reflog              关闭后查找查找版本号
+
+14）git add .              增加修改过的文件
+
+15)git checkout  -- github_order.txt  没有commit之前，可以回退。
+
+16） git rm -- cache github_order.txt 删除缓存区。没有commit之前
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
