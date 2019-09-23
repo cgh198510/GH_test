@@ -40,7 +40,7 @@ github  常用指令     svn：必须在一个公共的服务器
 
 17) git push -u origin master  向github提交自己的代码。
 
-18) 
+18) git push
 
   
 
