@@ -40,7 +40,17 @@ github  常用指令     svn：必须在一个公共的服务器
 
 17) git push -u origin master  向github提交自己的代码。
 
-18) 
+18) git checkout -b od1      创建并切换到分支 od1.
+
+19）git branch                 查看分支，并显示当前所在分支。
+
+20）git checkout master	     在其他分支上回到主分支。
+
+21）git branch -D od1        删除od1分支。
+  		
+
+ 
+ 
 
   
 
